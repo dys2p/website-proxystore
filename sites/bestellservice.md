@@ -42,7 +42,7 @@ Bestellt werden können nahezu alle hierzulande erhältlichen Produkte, die kein
 
 Gutscheine und Rabatt-Codes können wir bei der Ausführung von Aufträgen leider nicht berücksichtigen. Unsere Gebühr, die pro Einzelauftrag anfällt, sind 2 % des Bestellwerts (also des Warenwerts plus der Kosten für Versand und Verpackung) plus eine Pauschale in Höhe von 12,90 €.
 
-## 3. Zahlung
+<h2 id="zahlung">3. Zahlung</h2>
 
 Wir bearbeiten Bestellaufträge ausschließlich gegen Vorkasse. Dazu bieten wir aktuell folgende Zahlungsmöglichkeiten an:
 
