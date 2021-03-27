@@ -15,7 +15,7 @@
 		<div class="card-body">
 			<h3 class="card-title">Bestellservice</h3>
 			<p class="card-text">Wir vertreten dich bei Online-Einkäufen – datensparsam.</p>
-			<a href="bestellservice.html" class="card-link stretched-link">Wie funktioniert das?</a>
+			<a class="card-link stretched-link" href="bestellservice.html">Wie funktioniert das?</a>
 		</div>
 	</div>
 	<div class="card col-lg mx-3 mb-3">
@@ -31,7 +31,7 @@
 		<div class="card-body">
 			<h3 class="card-title">Ladensortiment</h3>
 			<p class="card-text">Literatur, Datenschutz-Zubehör und ein Kopiergerät gibt's vor Ort.</p>
-			<a href="ladensortiment.html" class="card-link stretched-link">Zum Ladensortiment</a>
+			<a class="card-link stretched-link" href="ladensortiment.html">Zum Ladensortiment</a>
 		</div>
 	</div>
 </div>
