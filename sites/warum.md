@@ -1,5 +1,7 @@
 # Warum?
 
+Wir möchten digitale Selbstverteidigung stärken. Dieser ProxyStore ist Teil eines größeren Konzepts, das du [auf dys2p.com findest](https://dys2p.com/konzept.html).
+
 ## Risiken und Probleme beim Einkaufen im Internet
 
 Onlineshopping ist bequem, unter den Aspekten der Privatsphäre und des Datenschutzes aber oft problematisch. Die meisten Onlineshops verlangen eine Vielzahl an Daten von dir. Häufig sollst du einen Account anlegen, mit dem deine Daten dauerhaft verknüpft werden. Doch auch ohne Account erhälst du meist standardmäßig eine Rechnung, und Rechnungsdaten müssen jahrelang gespeichert werden. Natürlich erfahren auch Zahlungsanbieter und Lieferdienste, wer du bist und wo du einkaufst.

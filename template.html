@@ -11,10 +11,10 @@
 			h3 { font-size: 1.5rem; }
 			h4 { font-size: 1.25rem; }
 			h5 { font-size: 1rem; }
-			a {
+			a:not(.navbar-brand) {
 				color: #28a745 !important;
 			}
-			a:focus, a:hover {
+			a:not(.navbar-brand):focus, a:not(.navbar-brand):hover {
 				color: #19692c !important;
 			}
 			footer a {
@@ -40,13 +40,13 @@
 					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 				</button>
 				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+					<a class="navbar-brand" href="https://dys2p.com">ProxyStore by dys2p</a>
 					<div class="navbar-nav mx-auto">
 						<a class="nav-item nav-link text-dark" href="index.html">ProxyStore</a>
 						<a class="nav-item nav-link text-dark" href="warum.html">Warum?</a>
 						<a class="nav-item nav-link text-dark" href="bestellservice.html">Bestellservice</a>
 						<a class="nav-item nav-link text-dark" href="ladensortiment.html">Ladensortiment</a>
 						<a class="nav-item nav-link text-dark" href="faq.html">FAQ</a>
-
 					</div>
 				</div>
 			</nav>
