@@ -73,4 +73,5 @@ Das [Privacy-Handbuch](https://privacy-handbuch.de/handbuch_11.htm) und [selbstd
 
 ## Literaturtipps
 
+* [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](https://dys2p.com/2021-03-new-oil.html)
 * [J. Onaolapo, E. Mariconti, G. Stringhini 2016: What Happens After You Are Pwnd: Understanding The Use Of Leaked Webmail Credentials In The Wild](https://www.researchgate.net/publication/310116406_What_Happens_After_You_Are_Pwnd_Understanding_The_Use_Of_Leaked_Webmail_Credentials_In_The_Wild)
