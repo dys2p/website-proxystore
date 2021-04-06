@@ -13,7 +13,7 @@
 
 1. Übermittle uns deinen Bestellauftrag über unser Bestellsystem, verfügbar [im Clear Web](https://order.proxysto.re) oder [als Tor Hidden Service](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion).
 2. Wenn alles passt, nehmen wir den Auftrag an.
-3. Zahle uns den Bestellwert und unsere Servicegebühr (12,90 € pro Einzelauftrag + 2 % des Bestellwerts) – bar, per Überweisung oder mit den Kryptowährungen Monero und Bitcoin. Danach führen wir deinen Bestellauftrag aus.
+3. Zahle uns den Bestellwert und unsere Servicegebühr (2 % des Bestellwerts + 12,90 € pro Einzelauftrag) – bar, per Überweisung oder mit den Kryptowährungen Monero und Bitcoin. Danach führen wir deinen Bestellauftrag aus.
 4. Wir leiten dir deine Ware weiter oder du holst sie im Shop ab.
 
 ## 1. Bestellung
