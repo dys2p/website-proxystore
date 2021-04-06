@@ -26,7 +26,7 @@ Die aktuelle Projektauswahl:
 - [SciHub](https://de.wikipedia.org/wiki/Sci-Hub)
 - [Tails](https://tails.boum.org/donate/index.de.html)
 
-Alternativ könnt ihr natürlich auch über unseren [Bestellservice](/) beim Online-Buchhandel eurer Wahl einkaufen.
+Alternativ könnt ihr natürlich auch über unseren [Bestellservice](bestellservice.html) beim Online-Buchhandel eurer Wahl einkaufen.
 
 ## Kopierer
 
