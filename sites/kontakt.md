@@ -2,7 +2,7 @@
 
 ## E-Mail
 
-`mail <span class="ritole">ta</span> proxysto.re`
+<code>mail <span class="ritole">ta</span> proxysto.re</code>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
