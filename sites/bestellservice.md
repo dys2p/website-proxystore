@@ -15,6 +15,7 @@
 2. Wenn alles passt, nehmen wir den Auftrag an.
 3. Zahle uns den Bestellwert und unsere Servicegebühr (2 % des Bestellwerts + 12,90 € pro Einzelauftrag) – bar, per Überweisung oder mit den Kryptowährungen Monero und Bitcoin. Danach führen wir deinen Bestellauftrag aus.
 4. Wir leiten dir deine Ware weiter oder du holst sie im Shop ab.
+5. Zwei Wochen nach Abschluss des Auftrags löscht das Bestellsystem deine Kontaktdaten und Lieferangaben. Nach weiteren zwei Wochen verschwinden die Daten auch aus unserem Backup.
 
 ## 1. Bestellung
 
