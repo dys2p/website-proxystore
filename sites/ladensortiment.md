@@ -10,9 +10,9 @@
 - RFID/NFC Block Hüllen: 1 €
 - RFID/NFC Block Karten: 2,50 €
 
-## Bücher
+## Bücher und Broschüren
 
-Ein kleines Büchersortiment, überwiegend von den Verlagen mitp und Rheinwerk, haben wir vorrätig. Welche das sind, könnt ihr zunächst in unserem [booklooker-Account](https://www.booklooker.de/B%C3%BCcher/Angebote/showAlluID=6790462) sehen. Demnächst wird es auch möglich sein, diese und weitere Bücher über unser Bestellsystem zu bestellen.
+Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein kleines Büchersortiment vorrätig, überwiegend von den Verlagen mitp und Rheinwerk. Welche das sind, könnt ihr zunächst in unserem [booklooker-Account](https://www.booklooker.de/B%C3%BCcher/Angebote/showAlluID=6790462) sehen. Demnächst wird es auch möglich sein, diese und weitere Bücher über unser Bestellsystem zu bestellen.
 
 Darüber hinaus steht euch durch unsere Kooperation mit der Buchhandlung [el libro](https://www.genialokal.de/buchhandlung/leipzig/el-libro/) das gesamte dortige Sortiment zur Verfügung.
 
