@@ -5,7 +5,7 @@
 1. [Widerrufsbelehrung für Dienstleistungsverträge](#1)
 2. [Widerrufsbelehrung für Kaufverträge](#2)
 
-## <a name="1">1.</a> Widerrufsbelehrung für außerhalb unserer Geschäftsräume geschlossene Dienstleistungsverträge
+<h2 id="1">1. Widerrufsbelehrung für außerhalb unserer Geschäftsräume geschlossene Dienstleistungsverträge</h2>
 
 Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag des Vertragsabschlusses.
 
@@ -20,7 +20,7 @@ sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall
 
 Haben Sie verlangt, dass die Dienstleistungen während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.
 
-## <a name="2">2.</a> Widerrufsbelehrung für außerhalb unserer Geschäftsräume geschlossene Kaufverträge
+<h2 id="2">2. Widerrufsbelehrung für außerhalb unserer Geschäftsräume geschlossene Kaufverträge</h2>
 
 Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen den Kaufvertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.
 
