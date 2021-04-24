@@ -1,5 +1,7 @@
 # Data-minimizing Order Service
 
+<div class="alert alert-info">Our order system will be available in English soon!</div>
+
 <div class="row">
 	<div class="col-sm border border-success bg-light m-3 p-4 rounded d-flex justify-content-center align-items-center">
 		<a class="stretched-link text-success" href="https://order.proxysto.re">To our order system (Clear Web)</a>
