@@ -2,43 +2,46 @@
 <html>
 	<head>
 		<title>ProxyStore</title>
-		<link rel="icon" type="image/png" href="images/favicon-96.png" sizes="96x96">
-		<link rel="stylesheet" href="bootstrap-4.4.1.min.css">
-		<link rel="stylesheet" href="style.css" />
-		<link rel="stylesheet" href="style-proxystore.css" />
+		<link rel="icon" type="image/png" href="../assets/images/favicon-96.png" sizes="96x96">
+		<link rel="stylesheet" href="../assets/bootstrap-4.4.1.min.css">
+		<link rel="stylesheet" href="../assets/style.css" />
+		<link rel="stylesheet" href="../assets/style-proxystore.css" />
 		<meta charset="utf-8">
+		{{.Head}}
 	</head>
 	<body>
 		<header>
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 				<input type="checkbox" id="toggle-navbar">
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+				<button class="navbar-toggler" type="button">
 					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 				</button>
-				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-					<a class="navbar-brand w-100" href="https://dys2p.com">ProxyStore by dys2p</a>
-					<div class="navbar-nav">
+				<div class="collapse navbar-collapse">
+					<a class="navbar-brand equal-width-lg" href="https://dys2p.com">ProxyStore by dys2p</a>
+					<div class="navbar-nav equal-width-lg d-flex justify-content-center">
 						<a class="nav-item nav-link text-dark" href="index.html">ProxyStore</a>
-						<a class="nav-item nav-link text-dark" href="warum.html">Warum?</a>
-						<a class="nav-item nav-link text-dark" href="bestellservice.html">Bestellservice</a>
-						<a class="nav-item nav-link text-dark" href="ladensortiment.html">Ladensortiment</a>
+						<a class="nav-item nav-link text-dark" href="warum.html">{{.Map "de" "Warum?" "en" "Why?"}}</a>
+						<a class="nav-item nav-link text-dark" href="bestellservice.html">{{.Map "de" "Bestellservice" "en" "Order Service"}}</a>
+						<a class="nav-item nav-link text-dark" href="ladensortiment.html">{{.Map "de" "Ladensortiment" "en" "Local Store"}}</a>
 						<a class="nav-item nav-link text-dark" href="faq.html">FAQ</a>
 					</div>
-					<div class="w-100"><!-- centers navbar-nav --></div>
+					<div class="equal-width-lg text-right">
+						{{range .Locales}}<a class="btn btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
+					</div>
 				</div>
 			</nav>
 		</header>
 		<main class="container pt-4">
-{{content}}
+			{{.Content}}
 		</main>
 		<footer class="footer">
 			<div class="container">
-				<a class="text-muted" href="kontakt.html"><strong>Kontakt</strong></a>
-				<a class="text-muted" href="agb.html">AGB</a>
-				<a class="text-muted" href="datenschutz.html">Datenschutz</a>
-				<a class="text-muted" href="impressum.html">Impressum</a>
-				<a class="text-muted" href="widerrufsbelehrung.html">Widerrufsbelehrung</a>
-				<a class="text-muted" href="kontakt.html">Fehler oder Hinweise? Schreib uns!</a>
+				<a class="text-muted" href="kontakt.html"><strong>{{.Map "de" "Kontakt" "en" "Contact"}}</strong></a>
+				<a class="text-muted" href="agb.html">{{.Map "de" "AGB" "en" "Terms and Conditions"}}</a>
+				<a class="text-muted" href="datenschutz.html">{{.Map "de" "Datenschutz" "en" "Privacy policy"}}</a>
+				<a class="text-muted" href="impressum.html">{{.Map "de" "Impressum" "en" "Imprint"}}</a>
+				<a class="text-muted" href="widerrufsbelehrung.html">{{.Map "de" "Widerrufsbelehrung" "en" "Cancellation Policy"}}</a>
+				<a class="text-muted" href="kontakt.html">{{.Map "de" "Fehler oder Hinweise? Schreib uns!" "en" "Got an idea or found an error? Drop us a note!"}}</a>
 			</div>
 		</footer>
 	</body>
