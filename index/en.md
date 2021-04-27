@@ -4,12 +4,6 @@
 
 <div class="alert alert-warning mt-3 mb-4">Gemäß der aktuellen sächsischen Corona-Schutz-Verordnung könnt ihr Waren derzeit nur abholen oder euch liefern lassen.</div>
 
-<style>
-.card-hover:hover {
-	background-color: #f7f7f7;
-}
-</style>
-
 <div class="row">
 	<div class="card card-hover col-lg mx-3 mb-3">
 		<div class="card-body">
