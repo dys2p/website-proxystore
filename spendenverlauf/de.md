@@ -1,6 +1,7 @@
 # Spendenverlauf
 
-* Spenden im Zeitraum Februar bis April 2021
+* Spenden im Zeitraum Februar bis Mai 2021
+  * Spendensumme April 2021: 0 €
   * Spendensumme März 2021: 11,32 €
   * Spendensumme Februar 2021: 2,67 €
 * Spenden im Zeitraum November 2020 bis Januar 2021
