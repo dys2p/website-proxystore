@@ -2,8 +2,6 @@
 
 <p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig (Germany) &ndash; current office hours: <strong>Mo-Sa 10-14 Uhr</strong> and by arrangement</p>
 
-<div class="alert alert-warning mt-3 mb-4">Gemäß der aktuellen sächsischen Corona-Schutz-Verordnung könnt ihr Waren derzeit nur abholen oder euch liefern lassen.</div>
-
 <div class="row">
 	<div class="card card-hover col-lg mx-3 mb-3">
 		<div class="card-body">
