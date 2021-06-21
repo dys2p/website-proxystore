@@ -37,7 +37,10 @@ Bitte nur für Signal verwenden (keine SMS oder Anrufe). Wir benutzen unter dies
 
 `proxystore-otr@jabber.systemli.org`
 
-OTR-Fingerprint: `6D9197BF F30A0E0E DD1AE4F1 C83B124F 0AE82395`
+OTR-Fingerprints:
+
+* `6D9197BF F30A0E0E DD1AE4F1 C83B124F 0AE82395`
+* `24473686 62CD03F0 CB1135F4 95EDAB6B 6F4C9354`
 
 ## Tor Hidden Services
 
