@@ -2,13 +2,26 @@
 
 ## Analoger und digitaler Datenschutz
 
-- [mullvad.net](https://mullvad.net/de/) VPN-Guthabenkarte für 6 Monate: 30 €
+- [Mullvad VPN](https://mullvad.net/de/) Guthabenkarten
+  - 1 Monat: 5 €
+  - 6 Monate: 30 €
+  - 12 Monate: 60 €
+- [Tutanota – sichere E-Mails für jeden!](https://tutanota.com/de/) Gutscheinkarten
+- [Cryptomator](https://cryptomator.org/)
+  - Android-Lizenz: 9,99 €
+  - Supporter-Zertifikat: 15 €
+- [Koofr Cloud Storage](https://koofr.eu/) 12 Monate
+  - 25 GB: 12 €
+  - 100 GB: 24 €
+  - 250 GB: 48 €
+  - 1 TB: 120 €
 - USB Data Blocker: 4 €
 - Microphone Blocker: 3 €
 - Kameracover verschiebbar, schwarz: 1 €
 - Kameracover Aufkleber 12 mm, schwarz: gegen Spende
 - RFID/NFC Block Hüllen: 1 €
 - RFID/NFC Block Karten: 2,50 €
+- [Faraday Bags von FWR](https://faraday-bags.de/) in verschiedenen Größen und Ausführungen
 
 ## Bücher und Broschüren
 
