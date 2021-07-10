@@ -22,7 +22,7 @@
 	<div class="card card-hover col-lg mx-3 mb-3">
 		<div class="card-body">
 			<h3 class="card-title">Local Store</h3>
-			<p class="card-text">Literature, gadgets and a copier are available in our local store.</p>
+			<p class="card-text">Literature, gadgets, a copier, a shredder and more!</p>
 			<a class="card-link stretched-link" href="ladensortiment.html">Read more</a>
 		</div>
 	</div>

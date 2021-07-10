@@ -21,8 +21,8 @@
 	</div>
 	<div class="card card-hover col-lg mx-3 mb-3">
 		<div class="card-body">
-			<h3 class="card-title">Ladensortiment</h3>
-			<p class="card-text">Literatur, Datenschutz-Zubehör und ein Kopiergerät gibt's vor Ort.</p>
+			<h3 class="card-title">Ladengeschäft</h3>
+			<p class="card-text">Literatur, Datenschutz-Zubehör, Kopierer, Aktenvernichter und mehr!</p>
 			<a class="card-link stretched-link" href="ladensortiment.html">Zum Ladensortiment</a>
 		</div>
 	</div>
