@@ -27,6 +27,12 @@ Fingerprint des PGP public keys: `46C9 A8B2 8780 6904 3472 CFA0 76E2 D4C7 62CE 7
 
 Mehr zum sicheren Umgang mit Matrix erfährst du im [Kuketz-Blog](https://www.kuketz-blog.de/element-messaging-ueber-die-matrix-messenger-teil7/) oder bei [systemli](https://www.systemli.org/service/matrix/).
 
+## Session
+
+`056ab54005c858e3ffd2835d68621375006bbbe412b9824fd8cf669f459ea48328`
+
+[FAQ auf getsession.org](https://getsession.org/faq/)
+
 ## Signal
 
 Bitte nur für Signal verwenden (keine SMS oder Anrufe). Wir benutzen unter dieser Nummer keine anderen Messenger.
