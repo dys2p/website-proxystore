@@ -1,6 +1,6 @@
 # ProxyStore
 
-<p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig &ndash; derzeitige Öffnungszeiten: <strong>Mo-Sa 10-14 Uhr</strong> und nach Vereinbarung</p>
+<p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig &ndash; Öffnungszeiten: <strong>Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr</strong> und nach Vereinbarung</p>
 
 <div class="row">
 	<div class="card card-hover col-lg mx-3 mb-3">

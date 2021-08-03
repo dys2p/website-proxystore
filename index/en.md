@@ -1,6 +1,6 @@
 # ProxyStore
 
-<p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig (Germany) &ndash; current opening hours: <strong>Mo-Sa 10-14 Uhr</strong> and by arrangement</p>
+<p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig (Germany) &ndash; opening hours: <strong>Mon+Thu 10am-6pm, Tue+Wed+Fri+Sat 10am-2pm</strong> and by arrangement</p>
 
 <div class="row">
 	<div class="card card-hover col-lg mx-3 mb-3">
