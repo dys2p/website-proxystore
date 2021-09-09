@@ -31,7 +31,7 @@ Darüber hinaus steht euch durch unsere Kooperation mit der Buchhandlung [el lib
 
 Für jedes Buch, das ihr direkt bei uns kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und [hier veröffentlicht](spendenverlauf.html).
 
-Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Electronic Frontier Foundation](https://supporters.eff.org/donate/pu20--WB), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.boum.org/donate/index.de.html)
+Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.boum.org/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate)
 
 Alternativ könnt ihr natürlich auch über unseren [Bestellservice](bestellservice.html) beim Online-Buchhandel eurer Wahl einkaufen.
 
