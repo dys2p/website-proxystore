@@ -2,6 +2,8 @@
 
 <p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig &ndash; Öffnungszeiten: <strong>Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr</strong> und nach Vereinbarung</p>
 
+<div class="alert alert-danger text-center">Am Samstag, dem 25.9.2021, ist unser Ladengeschäft geschlossen.</div>
+
 <div class="row">
 	<div class="card card-hover col-lg mx-3 mb-3">
 		<div class="card-body">
