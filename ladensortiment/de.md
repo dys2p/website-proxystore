@@ -1,5 +1,7 @@
 # Ladengeschäft
 
+<p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig &ndash; Öffnungszeiten: <strong>Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr</strong> und nach Vereinbarung</p>
+
 ## Analoger und digitaler Datenschutz
 
 - [Mullvad VPN](https://mullvad.net/de/) Guthabenkarten
