@@ -1,13 +1,6 @@
 # Datensparsamer Bestellservice
 
-<div class="row">
-	<div class="col-sm border border-success bg-light m-3 p-4 rounded d-flex justify-content-center align-items-center">
-		<a class="stretched-link text-success" href="https://order.proxysto.re">Zum Bestellsystem (Clear Web)</a>
-	</div>
-	<div class="col-sm border border-success bg-light m-3 p-4 rounded d-flex justify-content-center align-items-center">
-		<a class="stretched-link text-success" href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">Zum Bestellsystem (Tor Hidden Service)</a>
-	</div>
-</div>
+<div class="alert alert-info">Bald verfügbar!</div>
 
 [Du möchtest beim Einkaufen im Internet weniger Spuren hinterlassen?](warum.html) Du möchtest das Risiko minimieren, dass deine Daten weitergegeben oder geleakt werden? Du hast keine Kreditkarte oder keine Adresse? Diskretion ist dir wichtig? Dann bist du bei uns richtig! Wir vertreten dich bei Online-Einkäufen. So geht's:
 

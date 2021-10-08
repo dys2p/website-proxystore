@@ -1,15 +1,6 @@
 # Data-minimizing Order Service
 
-<div class="alert alert-info">Our order system will be available in English soon!</div>
-
-<div class="row">
-	<div class="col-sm border border-success bg-light m-3 p-4 rounded d-flex justify-content-center align-items-center">
-		<a class="stretched-link text-success" href="https://order.proxysto.re">To our order system (Clear Web)</a>
-	</div>
-	<div class="col-sm border border-success bg-light m-3 p-4 rounded d-flex justify-content-center align-items-center">
-		<a class="stretched-link text-success" href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">To our order system (Tor Hidden Service)</a>
-	</div>
-</div>
+<div class="alert alert-info">Coming soon!</div>
 
 [You want to leave less traces when shopping online?](warum.html) You want to minimize the risk of your data being shared or leaked? You don't have a credit card or a postal address? Discretion is important to you? Then you are right with us! We'll act for you when you shop online. This is how it works:
 
