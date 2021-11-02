@@ -2,6 +2,7 @@
 
 * Spenden im Zeitraum Juli bis Dezember 2021
   * an: Internet Archive, Qubes OS, Sci-Hub, Tails, Whonix
+  * Spendensumme Oktober 2021: 2,49 €
   * Spendensumme September 2021: 0,68 €
   * Spendensumme August 2021: 3,58 €
   * Spendensumme Juli 2021: 2,49 €
