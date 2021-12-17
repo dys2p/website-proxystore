@@ -2,6 +2,8 @@
 
 <p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig &ndash; Öffnungszeiten: <strong>Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr</strong> und nach Vereinbarung</p>
 
+<div class="alert alert-success">Am Jahresende haben wir bis zum (einschließlich) 23. Dezember sowie am 29.-31. Dezember geöffnet. Im neuen Jahr sind wir ab dem 3. Januar wieder für euch da.</div>
+
 <div class="row">
 	<div class="card card-hover col-lg mx-3 mb-3">
 		<div class="card-body">
