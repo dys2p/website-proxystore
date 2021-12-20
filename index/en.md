@@ -5,14 +5,7 @@
 <div class="alert alert-success">At the end of the year, we're open until (including) December 23rd, and at December 29th-31st. In the new year, we're open from January 3rd.</div>
 
 <div class="row">
-	<div class="card card-hover col-lg mx-3 mb-3">
-		<div class="card-body">
-			<h3 class="card-title">Order Service</h3>
-			<p class="card-text">We'll act for you when you shop online – data-minimizing.</p>
-			<a class="card-link stretched-link" href="bestellservice.html">How does it work?</a>
-		</div>
-	</div>
-	<div class="card col-lg mx-3 mb-3">
+	<div class="card col-lg m-3">
 		<div class="card-body">
 			<h3 class="card-title">Digital Goods</h3>
 			<p class="card-text">VPN, email and more – buy coupons for privacy-friendly services with Monero or Bitcoin.</p>
@@ -21,11 +14,32 @@
 			<a href="http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/">onion</a>
 		</div>
 	</div>
-	<div class="card card-hover col-lg mx-3 mb-3">
+	<div class="card card-hover col-lg m-3">
+		<div class="card-body">
+			<h3 class="card-title">Physical goods</h3>
+			<p class="card-text">Buy privacy gadgets and physical voucher cards for Mullvad VPN in our online store. Currently only shipping to Germany.</p>
+			<a class="card-link stretched-link" href="https://shop.proxysto.re">shop.proxysto.re</a>
+		</div>
+	</div>
+	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
 			<h3 class="card-title">Local Store</h3>
 			<p class="card-text">Literature, gadgets, a copier, a shredder and more!</p>
 			<a class="card-link stretched-link" href="ladensortiment.html">Read more</a>
 		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="card card-hover col-lg m-3">
+		<div class="card-body">
+			<h3 class="card-title">Order Service (coming soon)</h3>
+			<p class="card-text">We'll act for you when you shop online – data-minimizing.</p>
+			<a class="card-link stretched-link" href="bestellservice.html">How does it work?</a>
+		</div>
+	</div>
+	<div class="col-lg m-3">
+	</div>
+	<div class="col-lg m-3">
 	</div>
 </div>
