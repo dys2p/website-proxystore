@@ -2,9 +2,11 @@
 
 Unser Angebot richtet sich an Privatkunden.
 
+<!--
 ## Bestellservice
 
 Mit unserem Bestellservice vertreten wir dich bei Online-Einkäufen. Das Recht auf Gewährleistung und Widerruf verbleibt zwischen dir und dem tatsächlichen Händler.
+-->
 
 ## Rückzahlungen
 
