@@ -6,7 +6,7 @@
 	<div class="card col-lg m-3">
 		<div class="card-body">
 			<h3 class="card-title">Digitale Güter</h3>
-			<p class="card-text">VPN, E-Mail und mehr – kaufe Coupons für datenschutzfreundliche Anbieter mit Monero oder Bitcoin.</p>
+			<p class="card-text">VPN, E-Mail und mehr – kaufe Coupons für datenschutzfreundliche Anbieter mit Monero oder Bitcoin, Bargeldversand oder SEPA-Überweisung.</p>
 			<a href="https://digitalgoods.proxysto.re">digitalgoods.proxysto.re</a>
 			oder
 			<a href="http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/">onion</a>
