@@ -1,5 +1,7 @@
 # Spendenverlauf
 
+* Spenden im Zeitraum ab Januar 2022
+  * Spendensummer Januar 2022: 4,08 €
 * Spenden im Zeitraum Juli bis Dezember 2021
   * Nachweise: [Internet Archive](../assets/images/donations/2022-01/internet-archive.png), [Qubes OS](../assets/images/donations/2022-01/qubes-os.png), [Sci-Hub](../assets/images/donations/2022-01/sci-hub.png) (plus 120 Euro von einem Freund), [Tails](../assets/images/donations/2022-01/tails.png), [Whonix](../assets/images/donations/2022-01/whonix.png)
   * Spendensumme Dezember 2021: 7,19 €
