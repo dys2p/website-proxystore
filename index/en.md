@@ -1,6 +1,7 @@
 # ProxyStore
 
-<p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig (Germany) &ndash; opening hours: <strong>Mon+Thu 10am-6pm, Tue+Wed+Fri+Sat 10am-2pm</strong> and by arrangement</p>
+<p class="lead text-center mb-2">Bernhard-Göring-Straße 162, 04277 Leipzig (Germany)</p>
+<p class="lead text-center">Opening hours: Mon+Thu 10am-6pm, Tue+Wed+Fri+Sat 10am-2pm and by arrangement</p>
 
 <div class="row">
 	<div class="card col-lg m-3">
@@ -15,14 +16,14 @@
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
 			<h3 class="card-title">Physical goods</h3>
-			<p class="card-text">Buy privacy gadgets and physical voucher cards for Mullvad VPN in our online store. Currently only shipping to Germany.</p>
+			<p class="card-text">Buy privacy gadgets, books and physical voucher cards for Mullvad VPN in our online store. Currently only shipping to Germany.</p>
 			<a class="card-link stretched-link" href="https://shop.proxysto.re">shop.proxysto.re</a>
 		</div>
 	</div>
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
 			<h3 class="card-title">Local Store</h3>
-			<p class="card-text">Literature, gadgets, a copier, a shredder and more!</p>
+			<p class="card-text">Shred documents, use our Tails computer, print or copy stuff, grab some brochures or buy goods.</p>
 			<a class="card-link stretched-link" href="ladensortiment.html">Read more</a>
 		</div>
 	</div>
@@ -31,12 +32,17 @@
 <div class="row">
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
+			<h3 class="card-title">Projects and Translations</h3>
+			<p class="card-text">Sometimes we build and explore stuff, sometimes we translate texts.</p>
+			<a class="card-link stretched-link" href="https://dys2p.com">dys2p.com</a>
+		</div>
+	</div>
+	<div class="card card-hover col-lg m-3">
+		<div class="card-body">
 			<h3 class="card-title">Order Service (coming soon)</h3>
 			<p class="card-text">We'll act for you when you shop online – data-minimizing.</p>
 			<a class="card-link stretched-link" href="bestellservice.html">How does it work?</a>
 		</div>
-	</div>
-	<div class="col-lg m-3">
 	</div>
 	<div class="col-lg m-3">
 	</div>

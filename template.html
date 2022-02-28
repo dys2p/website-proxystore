@@ -20,7 +20,7 @@
 					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 				</div>
 				<div class="collapse navbar-collapse">
-					<a class="navbar-brand equal-width-lg" href="https://dys2p.com">ProxyStore by dys2p</a>
+					<a class="navbar-brand equal-width-lg"></a>
 					<div class="navbar-nav equal-width-lg d-flex justify-content-center">
 						<a class="nav-item nav-link text-dark" href="index.html">ProxyStore</a>
 						<a class="nav-item nav-link text-dark" href="warum.html">{{.Map "de" "Warum?" "en" "Why?"}}</a>
@@ -29,7 +29,7 @@
 						<a class="nav-item nav-link text-dark" href="faq.html">FAQ</a>
 					</div>
 					<div class="equal-width-lg text-right">
-						{{range .Locales}}<a class="btn btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
+						{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
 					</div>
 				</div>
 			</nav>
