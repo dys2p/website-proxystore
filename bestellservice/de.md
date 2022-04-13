@@ -6,7 +6,7 @@
 
 1. Übermittle uns deinen Bestellauftrag über unser Bestellsystem, verfügbar [im Clear Web](https://order.proxysto.re) oder [als Tor Hidden Service](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion).
 2. Wenn alles passt, nehmen wir den Auftrag an.
-3. Zahle uns den Bestellwert und unsere Servicegebühr (2 % des Bestellwerts + 12,90 € pro Einzelauftrag) – bar, per Überweisung oder mit den Kryptowährungen Monero und Bitcoin. Danach führen wir deinen Bestellauftrag aus.
+3. Zahle uns den Bestellwert und unsere Servicegebühr (5 % des Bestellwerts + 10 € pro Einzelauftrag) – bar, per Überweisung oder mit den Kryptowährungen Monero und Bitcoin. Danach führen wir deinen Bestellauftrag aus.
 4. Wir leiten dir deine Ware weiter oder du holst sie im Shop ab.
 5. Zwei Wochen nach Abschluss des Auftrags löscht das Bestellsystem deine Kontaktdaten und Lieferangaben. Nach weiteren zwei Wochen verschwinden die Daten auch aus unserem Backup.
 
@@ -34,7 +34,7 @@ Den eingereichten Auftrag werden wir prüfen und entweder annehmen, ablehnen ode
 
 Bestellt werden können nahezu alle hierzulande erhältlichen Produkte, die keine Nachweise erfordern und für Endverbraucher frei verfügbar sind. Eine Ausnahme bildet der Altersnachweis, der aber nur persönlich in unserem Laden erbracht werden kann. Wir behalten uns vor, Produkte oder Aufträge abzulehnen. Bei Lieferungen, die im Anschluss in ein anderes Land verschickt werden sollen, gelten zudem die dortigen gesetzlichen Bestimmungen.
 
-Gutscheine und Rabatt-Codes können wir bei der Ausführung von Aufträgen leider nicht berücksichtigen. Unsere Gebühr, die pro Einzelauftrag anfällt, sind 2 % des Bestellwerts (also des Warenwerts plus der Kosten für Versand und Verpackung) plus eine Pauschale in Höhe von 12,90 €.
+Gutscheine und Rabatt-Codes können wir bei der Ausführung von Aufträgen leider nicht berücksichtigen. Unsere Gebühr, die pro Einzelauftrag anfällt, sind 5 % des Bestellwerts (also des Warenwerts plus der Kosten für Versand und Verpackung) plus eine Pauschale in Höhe von 10 €.
 
 <h2 id="zahlung">3. Zahlung</h2>
 
@@ -59,9 +59,9 @@ Du kannst die Ware in unserem Ladenlokal (Bernhard-Göring-Straße 162, 04277 Le
 Falls du deine Bestellung per Post oder Paketdienst erhalten möchtest, kannst du uns eine bezahlte und beschriftete DHL-Paketmarke zukommen lassen oder einen Aufpreis für den Weiterversand bezahlen. Im ersten Fall wähle bitte eine Paketmarke, die zu dem Gewicht und der Größe deiner Bestellung passt. Im zweiten Fall hast du folgende Optionen:
 
 * DHL Paket (versichert) und analog frankiert: ab 7,49 €
-* DHL Paket (versichert) und digital frankiert: ab 4,99 €
-* Deutsche Post Einschreiben Einwurf: ab 3,00 €
-* Deutsche Post Einschreiben Wert: ab 5,10 €
+* DHL Paket (versichert) und digital frankiert: ab 5,94 €
+* Deutsche Post Einschreiben Einwurf: ab 3,81 €
+* Deutsche Post Einschreiben Wert: ab 6,31 €
 
 ## Schließfächer
 

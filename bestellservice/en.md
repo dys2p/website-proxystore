@@ -6,7 +6,7 @@
 
 1. Submit your order through our order system, available [on the clear web](https://order.proxysto.re) or [as a Tor Hidden Service](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion).
 2. If everything fits, we will accept the order.
-3. Pay us the order value and our service fee (2 % of the order value + 12,90 € per single order) in cash, by bank transfer or with the cryptocurrencies Monero and Bitcoin. After that, we execute your order.
+3. Pay us the order value and our service fee (5 % of the order value + 10 € per single order) in cash, by bank transfer or with the cryptocurrencies Monero and Bitcoin. After that, we execute your order.
 4. We send your goods to you or you can pick them up in our store.
 5. Two weeks later, the order system deletes your contact and shipment data. After another two weeks, the data also vanishes from our backups.
 
@@ -34,7 +34,7 @@ We will check the submitted order and either accept it, reject it or (if it is i
 
 You can order almost all products available in this country that do not require proof and are freely available to end users. An exception to this is proof of age, which can only be provided in person at our store. We reserve the right to refuse products or orders. For deliveries that are subsequently to be shipped to another country, the legal regulations in that country apply in addition.
 
-Unfortunately, we cannot consider vouchers and discount codes when executing orders. Our fee, which is incurred per individual order, is 2 % of the order value (i.e., the value of the goods plus the cost of shipping and packaging) plus a flat fee of 12.90 €.
+Unfortunately, we cannot consider vouchers and discount codes when executing orders. Our fee, which is incurred per individual order, is 5 % of the order value (i.e., the value of the goods plus the cost of shipping and packaging) plus a flat fee of 10 €.
 
 <h2 id="zahlung">3. Payment</h2>
 
@@ -59,9 +59,9 @@ You can pick up the goods in person at our store (Bernhard-Göring-Straße 162, 
 If you wish to receive your order by mail or parcel service, you can send us a paid and labeled DHL parcel stamp or pay a surcharge for forwarding. In the first case, please choose a parcel stamp that fits the weight and size of your order. In the second case you have the following options:
 
 * DHL parcel (insured), franked analogically: from 7,49 €
-* DHL Paket (insured) franked digitally: from 4,99 €
-* Deutsche Post registered mail (into your letterbox): from 3,00 €
-* Deutsche Post registered value mail: from 5,10 €
+* DHL Paket (insured) franked digitally: from 5,94 €
+* Deutsche Post registered mail (into your letterbox): from 3,81 €
+* Deutsche Post registered value mail: from 6,31 €
 
 ## Lockers
 

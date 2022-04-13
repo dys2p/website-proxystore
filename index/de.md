@@ -39,9 +39,11 @@
 	</div>
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
-			<h3 class="card-title">Bestellservice (demnächst)</h3>
-			<p class="card-text">Wir vertreten dich bei Online-Einkäufen – datensparsam.</p>
-			<a class="card-link stretched-link" href="bestellservice.html">Wie funktioniert das?</a>
+			<h3 class="card-title">Bestellservice</h3>
+			<p class="card-text">Wir bestellen Waren für dich – datensparsam. <a href="bestellservice.html">Weiterlesen</a></p>
+			<a href="https://order.proxysto.re">order.proxysto.re</a>
+			oder
+			<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion/">onion</a>
 		</div>
 	</div>
 	<div class="col-lg m-3">
