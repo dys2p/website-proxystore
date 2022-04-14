@@ -1,5 +1,7 @@
 # Data-minimizing Order Service
 
+<div class="alert alert-warning">The ordering service currently has some limitations. See <a href="https://order.proxysto.re">order.proxysto.re</a> (<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">Onion Service</a>) for more information.</div>
+
 [You want to leave less traces when shopping online?](warum.html) You want to minimize the risk of your data being shared or leaked? You don't have a credit card or a postal address? Discretion is important to you? Then you are right with us! We'll act for you when you shop online. This is how it works:
 
 1. Submit your order through our order system, available [on the clear web](https://order.proxysto.re) or [as a Tor Hidden Service](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion).

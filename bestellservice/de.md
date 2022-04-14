@@ -1,5 +1,7 @@
 # Datensparsamer Bestellservice
 
+<div class="alert alert-warning">Der Bestellservice hat derzeit ein paar Einschränkungen. Details findest du auf <a href="https://order.proxysto.re">order.proxysto.re</a> (<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">Onion Service</a>).</div>
+
 [Du möchtest beim Einkaufen im Internet weniger Spuren hinterlassen?](warum.html) Du möchtest das Risiko minimieren, dass deine Daten weitergegeben oder geleakt werden? Du hast keine Kreditkarte oder keine Adresse? Diskretion ist dir wichtig? Dann bist du bei uns richtig! Wir vertreten dich bei Online-Einkäufen. So geht's:
 
 1. Übermittle uns deinen Bestellauftrag über unser Bestellsystem, verfügbar [im Clear Web](https://order.proxysto.re) oder [als Tor Hidden Service](http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion).
