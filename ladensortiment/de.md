@@ -1,6 +1,7 @@
 # Ladengeschäft
 
-<p class="lead text-center">Bernhard-Göring-Straße 162, 04277 Leipzig &ndash; Öffnungszeiten: <strong>Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr</strong> und nach Vereinbarung</p>
+<p class="lead text-center mb-2">Bernhard-Göring-Straße 162, 04277 Leipzig</p>
+<p class="lead text-center">Öffnungszeiten: Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr und nach Vereinbarung</p>
 
 ## Analoger und digitaler Datenschutz
 
