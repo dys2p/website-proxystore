@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum ab Januar 2022
+  * Spendensumme April 2022: 5,00 €
   * Spendensumme März 2022: 2,26 €
   * Spendensumme Februar 2022: 3,59 €
   * Spendensumme Januar 2022: 4,08 €
