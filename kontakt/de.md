@@ -41,7 +41,7 @@ Bitte nur für Signal verwenden (keine SMS oder Anrufe). Wir benutzen unter dies
 
 ## XMPP mit OTR-Verschlüsselung
 
-`proxystore-otr@jabber.systemli.org`
+<code>proxystore-otr <span class="ritole">ta</span> jabber.systemli.org</code>
 
 OTR-Fingerprints:
 
