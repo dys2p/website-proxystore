@@ -1,6 +1,8 @@
 # Spendenverlauf
 
-* Spenden im Zeitraum ab Januar 2022
+* Spenden im Zeitraum Januar bis Juni 2022
+  * Nachweise: [Internet Archive](../assets/images/donations/2022-07/internet-archive.png), [Qubes OS](../assets/images/donations/2022-07/qubes-os.png), [Sci-Hub](../assets/images/donations/2022-07/sci-hub.png) (plus 20 Euro von einem Freund), [Tails](../assets/images/donations/2022-07/tails.png) (plus 20 Euro von einem Freund), [Whonix](../assets/images/donations/2022-07/whonix.png)
+  * Spendensumme Juni 2022: 3,10 €
   * Spendensumme Mai 2022: 0,00 €
   * Spendensumme April 2022: 5,00 €
   * Spendensumme März 2022: 2,26 €
