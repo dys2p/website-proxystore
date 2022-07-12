@@ -39,16 +39,15 @@ Mehr zum sicheren Umgang mit Matrix erfährst du im [Kuketz-Blog](https://www.ku
 Bitte nur für Signal verwenden (keine SMS oder Anrufe). Wir benutzen unter dieser Nummer keine anderen Messenger.
 -->
 
-<s><code>+49 178 123 9200</code></s> (Die Nummer ist ab dem 9. Juli 2022 wieder erreichbar.)
+<s><code>+49 178 123 9200</code></s> (Die Nummer ist ab dem 20. Juli 2022 wieder erreichbar.)
 
 ## XMPP mit OTR-Verschlüsselung
 
-<code>proxystore-otr <span class="ritole">ta</span> jabber.systemli.org</code>
+<code>proxystore <span class="ritole">ta</span> jabber.systemli.org</code>
 
-OTR-Fingerprints:
+OTR-Fingerprint:
 
-* `6D9197BF F30A0E0E DD1AE4F1 C83B124F 0AE82395`
-* `24473686 62CD03F0 CB1135F4 95EDAB6B 6F4C9354`
+* `D3C20EE9 530CD74B A1C1D2C3 A9D5E4CD 23629ECA`
 
 ## Tor Hidden Services
 
