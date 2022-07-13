@@ -48,6 +48,7 @@ Bitte nur für Signal verwenden (keine SMS oder Anrufe). Wir benutzen unter dies
 OTR-Fingerprint:
 
 * `D3C20EE9 530CD74B A1C1D2C3 A9D5E4CD 23629ECA`
+* `861E80B0 16C886D2 EF4DEB78 377D8131 F2C08E96`
 
 ## Tor Hidden Services
 
