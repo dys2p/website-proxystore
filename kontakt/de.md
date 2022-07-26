@@ -35,11 +35,7 @@ Mehr zum sicheren Umgang mit Matrix erfährst du im [Kuketz-Blog](https://www.ku
 
 ## Signal
 
-<!--
-Bitte nur für Signal verwenden (keine SMS oder Anrufe). Wir benutzen unter dieser Nummer keine anderen Messenger.
--->
-
-<s><code>+49 178 123 9200</code></s> (Die Nummer ist ab dem 23. Juli 2022 wieder erreichbar.)
+<code>+49 178 123 9200</code>
 
 ## XMPP mit OTR-Verschlüsselung
 
