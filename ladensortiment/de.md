@@ -9,7 +9,7 @@ Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) (Guthaben
 
 ## Bücher und Broschüren
 
-Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein kleines Büchersortiment vorrätig, überwiegend von den Verlagen mitp und Rheinwerk. Welche das sind, könnt ihr zunächst in unserem [booklooker-Account](https://www.booklooker.de/B%C3%BCcher/Angebote/showAlluID=6790462) sehen. Demnächst wird es auch möglich sein, diese und weitere Bücher über ein Bestellsystem zu bestellen.
+Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein [kleines Büchersortiment vorrätig](https://shop.proxysto.re/category/7?avail=stock), überwiegend von den Verlagen mitp und Rheinwerk.
 
 Darüber hinaus steht euch durch unsere Kooperation mit der Buchhandlung [el libro](https://www.genialokal.de/buchhandlung/leipzig/el-libro/) das gesamte dortige Sortiment zur Verfügung.
 
