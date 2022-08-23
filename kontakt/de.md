@@ -52,6 +52,7 @@ Die Adressen sind gleichzeitig die Fingerprints.
 
 ```
 digitalgoods.proxysto.re digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion
-order.proxysto.re        proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion
-pay.proxysto.re          ak4jf6rqm3inp3o6ide4zfjgxukpmzzlawpltt5s4iy6tys6qjp6atqd.onion
+       druck.proxysto.re print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion
+       order.proxysto.re proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion
+         pay.proxysto.re ak4jf6rqm3inp3o6ide4zfjgxukpmzzlawpltt5s4iy6tys6qjp6atqd.onion
 ```
