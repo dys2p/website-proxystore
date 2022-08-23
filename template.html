@@ -25,8 +25,8 @@
 					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 				</div>
 				<div class="collapse navbar-collapse">
-					<a class="navbar-brand equal-width-lg"></a>
-					<div class="navbar-nav equal-width-lg d-flex justify-content-center">
+					<a class="navbar-brand equal-width-sm"></a>
+					<div class="navbar-nav equal-width-sm d-flex justify-content-center">
 						<a class="nav-item nav-link text-dark" href="index.html">ProxyStore</a>
 						<a class="nav-item nav-link text-dark" href="news.html">News</a>
 						<a class="nav-item nav-link text-dark" href="warum.html">{{.Map "de" "Warum?" "en" "Why?"}}</a>
@@ -34,7 +34,7 @@
 						<a class="nav-item nav-link text-dark" href="ladensortiment.html">{{.Map "de" "Ladengeschäft" "en" "Local Store"}}</a>
 						<a class="nav-item nav-link text-dark" href="faq.html">FAQ</a>
 					</div>
-					<div class="equal-width-lg text-right">
+					<div class="equal-width-sm text-right">
 						{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
 					</div>
 				</div>
