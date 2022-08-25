@@ -15,8 +15,8 @@
 	</div>
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
-			<h3 class="card-title">Physical goods</h3>
-			<p class="card-text">Buy privacy gadgets, books and physical voucher cards for Mullvad VPN in our online store. Currently only shipping to Germany.</p>
+			<h3 class="card-title">Online store</h3>
+			<p class="card-text">Buy hardware, books, privacy gadgets and physical voucher cards for Mullvad VPN in our online store. Currently only shipping to Germany.</p>
 			<a class="card-link stretched-link" href="https://shop.proxysto.re">shop.proxysto.re</a>
 		</div>
 	</div>
@@ -32,20 +32,27 @@
 <div class="row">
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
-			<h3 class="card-title">Projects and Translations</h3>
-			<p class="card-text">Sometimes we build and explore stuff, sometimes we translate texts.</p>
-			<a class="card-link stretched-link" href="https://dys2p.com">dys2p.com</a>
+			<h3 class="card-title">Order Service</h3>
+			<p class="card-text">We order goods for you – data-minimizing or anonymous. <a href="bestellservice.html">Read more</a></p>
+			<a href="https://order.proxysto.re">order.proxysto.re</a>
+			or
+			<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">onion</a>
 		</div>
 	</div>
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
-			<h3 class="card-title">Order Service</h3>
-			<p class="card-text">We order goods for you – data-minimizing. <a href="bestellservice.html">Read more</a></p>
-			<a href="https://order.proxysto.re">order.proxysto.re</a>
-			or
-			<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion/">onion</a>
+			<h3 class="card-title">Printing shop</h3>
+			<p class="card-text">Conveniently print your own designs in our online printing shop – data-minimizing or anonymous.</p>
+			<a href="https://druck.proxysto.re">druck.proxysto.re</a>
+			oder
+			<a href="http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion">onion</a>
 		</div>
 	</div>
-	<div class="col-lg m-3">
+	<div class="card card-hover col-lg m-3">
+		<div class="card-body">
+			<h3 class="card-title">Projects and Translations</h3>
+			<p class="card-text">Sometimes we build and explore stuff, sometimes we translate texts.</p>
+			<a class="card-link stretched-link" href="https://dys2p.com">dys2p.com</a>
+		</div>
 	</div>
 </div>
