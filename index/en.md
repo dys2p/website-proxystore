@@ -33,7 +33,7 @@
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
 			<h3 class="card-title">Order Service</h3>
-			<p class="card-text">We order goods for you – data-minimizing or anonymous. <a href="bestellservice.html">Read more</a></p>
+			<p class="card-text">We order goods for you – data-minimizing or anonymously. <a href="bestellservice.html">Read more</a></p>
 			<a href="https://order.proxysto.re">order.proxysto.re</a>
 			or
 			<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">onion</a>
@@ -42,7 +42,7 @@
 	<div class="card card-hover col-lg m-3">
 		<div class="card-body">
 			<h3 class="card-title">Printing shop</h3>
-			<p class="card-text">Conveniently print your own designs in our online printing shop – data-minimizing or anonymous.</p>
+			<p class="card-text">Conveniently print your own designs in our online printing shop – data-minimizing or anonymously.</p>
 			<a href="https://druck.proxysto.re">druck.proxysto.re</a>
 			oder
 			<a href="http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion">onion</a>
