@@ -1,6 +1,8 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Juli bis Dezember 2022
+  * Spendensumme September 2022: 0,00 €
+  * Spendensumme August 2022: 1,40 €
   * Spendensumme Juli 2022: 5,94 €
 * Spenden im Zeitraum Januar bis Juni 2022
   * Nachweise: [Internet Archive](../assets/images/donations/2022-07/internet-archive.png), [Qubes OS](../assets/images/donations/2022-07/qubes-os.png), [Sci-Hub](../assets/images/donations/2022-07/sci-hub.png) (plus 20 Euro von einem Freund), [Tails](../assets/images/donations/2022-07/tails.png) (plus 20 Euro von einem Freund), [Whonix](../assets/images/donations/2022-07/whonix.png)
