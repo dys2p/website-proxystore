@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="icon" type="image/png" href="../assets/images/favicon-96.png" sizes="96x96">
-		<link rel="stylesheet" href="../assets/bootstrap-4.4.1.min.css">
+		<link rel="stylesheet" href="../assets/bootstrap.min.css">
 		<link rel="stylesheet" href="../assets/style.css" />
 		<meta name="author" content="ProxyStore">
 		<meta name="description" content="Order goods from any retailer within the European Union. Pay in cash, bank transfer, Monero or Bitcoin. Collect goods at our store or we reship them within the EU.">
@@ -20,22 +20,24 @@
 				<a class="nav-item nav-link text-dark px-2 py-0" href="https://toolbox77.de">toolbox77</a>
 			</nav>
 			<nav class="navbar navbar-expand-sm navbar-light bg-light">
-				<input type="checkbox" id="toggle-navbar">
-				<div class="navbar-toggler">
-					<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
-				</div>
-				<div class="collapse navbar-collapse">
-					<a class="navbar-brand equal-width-sm"></a>
-					<div class="navbar-nav equal-width-sm d-flex justify-content-center">
-						<a class="nav-item nav-link text-dark" href="index.html">ProxyStore</a>
-						<a class="nav-item nav-link text-dark" href="news.html">News</a>
-						<a class="nav-item nav-link text-dark" href="warum.html">{{.Map "de" "Warum?" "en" "Why?"}}</a>
-						<a class="nav-item nav-link text-dark" href="bestellservice.html">{{.Map "de" "Bestellservice" "en" "Order Service"}}</a>
-						<a class="nav-item nav-link text-dark" href="ladensortiment.html">{{.Map "de" "Ladengeschäft" "en" "Local Store"}}</a>
-						<a class="nav-item nav-link text-dark" href="faq.html">FAQ</a>
+				<div class="container-fluid">
+					<input type="checkbox" id="toggle-navbar">
+					<div class="navbar-toggler">
+						<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 					</div>
-					<div class="equal-width-sm text-right">
-						{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
+					<div class="collapse navbar-collapse">
+						<a class="navbar-brand equal-width-sm"></a>
+						<div class="navbar-nav equal-width-sm d-flex justify-content-center">
+							<a class="nav-item nav-link text-dark" href="index.html">ProxyStore</a>
+							<a class="nav-item nav-link text-dark" href="news.html">News</a>
+							<a class="nav-item nav-link text-dark" href="warum.html">{{.Map "de" "Warum?" "en" "Why?"}}</a>
+							<a class="nav-item nav-link text-dark" href="bestellservice.html">{{.Map "de" "Bestellservice" "en" "Order Service"}}</a>
+							<a class="nav-item nav-link text-dark" href="ladensortiment.html">{{.Map "de" "Ladengeschäft" "en" "Local Store"}}</a>
+							<a class="nav-item nav-link text-dark" href="faq.html">FAQ</a>
+						</div>
+						<div class="equal-width-sm text-end">
+							{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
+						</div>
 					</div>
 				</div>
 			</nav>
