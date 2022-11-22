@@ -45,7 +45,7 @@ Gesammelte persönliche Informationen (z. B. Vor- und Nachname, Geschlecht, Gebu
 
 Am 25. Juni 2020 konnte ein Akteur mehr als 1.075.000 E-Mail-Adressen und weitere Kundendaten zu über 272.000 Personen erlangen, darunter zusätzlich zur E-Mail-Adresse auch den Vor- und Nachnamen, eine Anschrift (Straße, Hausnummer, Postleitzahl, Ort und Land) und eine Telefonnummer. Das betroffene Unternehmen – Ledger – stellt Hardware-Wallets her, um Kryptowährungen zu sichern. Seitdem gibt es ein breites Spektrum an Aktionen zum Nachteil der Betroffenen.
 
-Derartige Datensätze werden oft weiterverbreitet und von verschiedenen Akteure verwendet. Die Kundendaten von Ledger wurden für zahlreiche Phishing-Kampagnen in mehreren Sprachen und über diverse Kommuinkationswege (E-Mail, SMS) genutzt. Laut [Angaben der Firma](https://www.ledger.com/phishing-campaigns-status#phishing-campaigns) wurden seit dem 22. Oktober 2020 in diesem Zusammenhang 312 Phishing-Webseiten vom Netz genommen. Da der Datensatz auch Telefonnummern enthielt, konnten Akteure mittels [SIM-Swapping](https://de.wikipedia.org/wiki/SIM-Swapping) die oftmals für die Zwei-Faktor-Authentisierung genutzten Telefonnummern übernehmen und sich weiteren Zugang z. B. [auf Börsen für Kryptowährungen](https://web.archive.org/web/20210126113423/www.coindesk.com/ledger-leak-sim-swap-home-invasion-threats) verschaffen.
+Derartige Datensätze werden oft weiterverbreitet und von verschiedenen Akteure verwendet. Die Kundendaten von Ledger wurden für zahlreiche Phishing-Kampagnen in mehreren Sprachen und über diverse Kommuinkationswege (E-Mail, SMS) genutzt. Laut [Angaben der Firma](https://www.ledger.com/phishing-campaigns-status#phishing-campaigns) wurden seit dem 22. Oktober 2020 in diesem Zusammenhang 527 Phishing-Webseiten vom Netz genommen. Da der Datensatz auch Telefonnummern enthielt, konnten Akteure mittels [SIM-Swapping](https://de.wikipedia.org/wiki/SIM-Swapping) die oftmals für die Zwei-Faktor-Authentisierung genutzten Telefonnummern übernehmen und sich weiteren Zugang z. B. [auf Börsen für Kryptowährungen](https://web.archive.org/web/20210126113423/www.coindesk.com/ledger-leak-sim-swap-home-invasion-threats) verschaffen.
 
 Ein erhöhtes Aufkommen von Phishing und Spam per E-Mail ist nach derartigen Vorfällen relativ normal. Was in diesem Fall hervorsticht ist, dass Kunden von Ledger mit [Einbrüchen](https://web.archive.org/web/20210126114520/https://www.reddit.com/r/ledgerwallet/comments/kh8q82/fantastic/), Entführung und dem Tod ([1](https://web.archive.org/web/20210126114848/https://www.reddit.com/r/ledgerwalletleak/comments/ki1nsz/received_phone_call_threatening_kidnapping_and/), [2](https://web.archive.org/web/20210126115052/https://www.reddit.com/r/CryptoCurrency/comments/kx9sy0/my_dad_just_received_a_death_threat_on_his/)) gedroht wird, um Geld zu erpressen.
 
@@ -69,9 +69,9 @@ Die staatliche Überwachung der analogen und digitalen Welt wird oft mit der "Si
 
 ## Datenhandel und Werbung
 
-Das [Privacy-Handbuch](https://privacy-handbuch.de/handbuch_11.htm) und [selbstdatenschutz.info](https://www.selbstdatenschutz.info/datenkraken/) bieten einen guten Überblick über Akteure, Methoden und Geschäftsmodelle des digitalen Datenhandels und der Nutzerverfolgung.
+Das [Privacy-Handbuch](https://privacy-handbuch.de/handbuch_11.htm) und [selbstdatenschutz.info](https://web.archive.org/web/20210618051140/https://www.selbstdatenschutz.info/datenkraken/) bieten einen guten Überblick über Akteure, Methoden und Geschäftsmodelle des digitalen Datenhandels und der Nutzerverfolgung.
 
 ## Literaturtipps
 
-* [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](https://dys2p.com/2021-03-new-oil.html)
+* [Cory Doctorow: Daten – das neue Öl oder Potenzial für eine Ölkatastrophe?](https://dys2p.com/de/2021-03-new-oil.html)
 * [J. Onaolapo, E. Mariconti, G. Stringhini 2016: What Happens After You Are Pwnd: Understanding The Use Of Leaked Webmail Credentials In The Wild](https://www.researchgate.net/publication/310116406_What_Happens_After_You_Are_Pwnd_Understanding_The_Use_Of_Leaked_Webmail_Credentials_In_The_Wild)

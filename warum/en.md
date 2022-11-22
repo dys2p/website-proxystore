@@ -45,7 +45,7 @@ Collected personal information (e.g., first and last name, gender, date of birth
 
 On June 25, 2020, someone was able to obtain more than 1,075,000 email addresses and other customer data of more than 272,000 individuals, including, in addition to the email address, the first and last name, an address (street, house number, zip code, city, and country), and a phone number. The affected company – Ledger – is selling hardware wallets with purpose to secure cryptocurrency wallets. Since then, there has been a wide range of actions to the detriment of those affected.
 
-Such databases are often redistributed and used by various players. Ledger's customer data has been used for numerous phishing campaigns in multiple languages and through various communication channels (email, SMS). According to [company information](https://www.ledger.com/phishing-campaigns-status#phishing-campaigns), 312 phishing websites have been taken offline in this context since October 22, 2020. Because the dataset also contained phone numbers, players were able to use [SIM swapping](https://en.wikipedia.org/wiki/SIM_swap_scam) to take over the phone numbers often used for two-factor authentication, and gain further access, e.g., [on accounts at cryptocurrency exchanges](https://web.archive.org/web/20210126113423/www.coindesk.com/ledger-leak-sim-swap-home-invasion-threats).
+Such databases are often redistributed and used by various players. Ledger's customer data has been used for numerous phishing campaigns in multiple languages and through various communication channels (email, SMS). According to [company information](https://www.ledger.com/phishing-campaigns-status#phishing-campaigns), 527 phishing websites have been taken offline in this context since October 22, 2020. Because the dataset also contained phone numbers, players were able to use [SIM swapping](https://en.wikipedia.org/wiki/SIM_swap_scam) to take over the phone numbers often used for two-factor authentication, and gain further access, e.g., [on accounts at cryptocurrency exchanges](https://web.archive.org/web/20210126113423/www.coindesk.com/ledger-leak-sim-swap-home-invasion-threats).
 
 An increased amount of phishing and spam emails is quite normal after such an incident. What stands out in this case is that Ledger customers are threatened with [break-ins](https://web.archive.org/web/20210126114520/https://www.reddit.com/r/ledgerwallet/comments/kh8q82/fantastic/), kidnapping, and death ([1](https://web.archive.org/web/20210126114848/https://www.reddit.com/r/ledgerwalletleak/comments/ki1nsz/received_phone_call_threatening_kidnapping_and/), [2](https://web.archive.org/web/20210126115052/https://www.reddit.com/r/CryptoCurrency/comments/kx9sy0/my_dad_just_received_a_death_threat_on_his/)) in order to extort money.
 
@@ -69,7 +69,7 @@ State surveillance of the analog and digital world is often justified by the "se
 
 ## Data trading and advertising
 
-The [privacy handbook](https://privacy-handbuch.de/handbuch_11.htm) and [selbstdatenschutz.info](https://www.selbstdatenschutz.info/datenkraken/) provide a good overview of players, methods and business models of digital data trading and user tracking.
+The [privacy handbook](https://privacy-handbuch.de/handbuch_11.htm) and [selbstdatenschutz.info](https://web.archive.org/web/20210618051140/https://www.selbstdatenschutz.info/datenkraken/) provide a good overview of players, methods and business models of digital data trading and user tracking.
 
 ## Literature tips
 
