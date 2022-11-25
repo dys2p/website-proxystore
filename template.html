@@ -34,7 +34,7 @@
 							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> ProxyStore</a>
 							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://toolbox77.de"><i class="fa-solid fa-cart-shopping"></i> toolbox77</a>
 						</div>
-						<div class="equal-width-xl text-end">
+						<div class="equal-width-xl text-end text-nowrap">
 							{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
 						</div>
 					</div>
