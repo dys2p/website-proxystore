@@ -1,3 +1,3 @@
-# News
+<meta http-equiv="refresh" content="0; url=https://dys2p.com/news.html" />
 
-* [2022-07-15 A bug in BTCPay Server and its impact on our online shop](2022-07-15-btcpay-bug.html)
+This page has been moved. [Click here.](https://dys2p.com/news.html)

@@ -1,58 +1,52 @@
-# ProxyStore
+<h1 class="text-center">ProxyStore</h1>
 
-<p class="lead text-center mb-2">Bernhard-Göring-Straße 162, 04277 Leipzig</p>
+<p class="lead text-center mb-2">Bernhard-Göring-Straße 162, 04277 Leipzig, Deutschland</p>
 <p class="lead text-center">Öffnungszeiten: Mo+Do 10-18 Uhr, Di+Mi+Fr+Sa 10-14 Uhr und nach Vereinbarung</p>
 
-<div class="row">
-	<div class="card col-lg m-3">
-		<div class="card-body">
-			<h3 class="card-title">Digitale Güter</h3>
-			<p class="card-text">VPN, E-Mail und mehr – kaufe Coupons für datenschutzfreundliche Anbieter mit Monero oder Bitcoin, Bargeldversand oder SEPA-Überweisung.</p>
-			<a href="https://digitalgoods.proxysto.re">digitalgoods.proxysto.re</a>
-			oder
-			<a href="http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/">onion</a>
+## Onlinesortiment
+
+Unser Angebot an [digitalen Gütern](https://digitalgoods.proxysto.re) und Produkten aus unseren Onlineshops [shop.proxysto.re](https://shop.proxysto.re) und [toolbox77.de](https://toolbox77.de) ist vollumfänglich in unserem Ladengeschäft erhältlich.
+
+## Bücher und Broschüren
+
+Neben einigen Broschüren zu Datensicherheit und digitaler Selbstverteidigung haben wir auch ein [kleines Büchersortiment vorrätig](https://shop.proxysto.re/category/7). Für jedes Buch, das ihr direkt bei uns kauft, spenden wir fünf Prozent des Buchpreises an insgesamt fünf ausgewählte Projekte. Die Projektauswahl erfolgt für mindestens drei Monate. Die Spenden (jeweils ein Prozent für jedes Projekt) werden alle drei Monate übermittelt und [hier veröffentlicht](spendenverlauf.html). Die aktuelle Projektauswahl: [Archive.org](https://archive.org/donate), [Qubes OS](https://www.qubes-os.org/donate/), [SciHub](https://de.wikipedia.org/wiki/Sci-Hub), [Tails](https://tails.boum.org/donate/index.de.html), [Whonix](https://www.whonix.org/wiki/Donate).
+
+## Geräte
+
+Während unserer Öffnungszeiten könnt ihr kostenfrei oder gegen einen geringen Betrag diese Geräte nutzen:
+
+<div class="row row-cols-1 row-cols-md-3">
+	<div class="col mb-4">
+		<div class="card">
+			<img src="../assets/images/tails.jpg" class="card-img-top" alt="Computer mit Tails">
+			<div class="card-body">
+				<h3 class="card-title">Tails-Computer</h3>
+				<p class="card-text">Dieser Computer hat keine Festplatte. Auf ihm startet das Betriebssystem <a href="https://tails.boum.org/">Tails</a> von einer DVD. Damit kannst du dich anonym im Internet bewegen. Eine Kabine schützt dich dabei vor neugierigen Blicken.</p>
+			</div>
 		</div>
 	</div>
-	<div class="card card-hover col-lg m-3">
-		<div class="card-body">
-			<h3 class="card-title">Onlineshop</h3>
-			<p class="card-text">In unserem Onlineshop findest du Hardware, Bücher, Datenschutz-Zubehör und physische Guthabenkarten für Mullvad VPN.</p>
-			<a class="card-link stretched-link" href="https://shop.proxysto.re">shop.proxysto.re</a>
+	<div class="col mb-4">
+		<div class="card">
+			<img src="../assets/images/shredder.jpg" class="card-img-top" alt="Aktenvernichter">
+			<div class="card-body">
+				<h3 class="card-title">Aktenvernichter</h3>
+				<p class="card-text">Der Dahle 706air mit Sicherheitsstufen P-7/F-3/T-6 zerkleinert Papier und Plastik&shy;karten in millimeterkleine Schnipsel. Falls dir das nicht reicht, kannst du einen Beutel mitbringen und die Reste mitnehmen.</p>
+			</div>
 		</div>
 	</div>
-	<div class="card card-hover col-lg m-3">
-		<div class="card-body">
-			<h3 class="card-title">Ladengeschäft</h3>
-			<p class="card-text">Schreddere Dokumente, nutze unser Tails-Terminal, drucke oder kopiere, nimm dir eine Broschüre oder kaufe ein.</p>
-			<a class="card-link stretched-link" href="ladensortiment.html">Mehr dazu</a>
+	<div class="col mb-4">
+		<div class="card">
+			<img src="../assets/images/copier.jpg" class="card-img-top" alt="Kopiergerät">
+			<div class="card-body">
+				<h3 class="card-title">Kopierer</h3>
+				<p class="card-text">Druckt, scannt und kopiert DIN A3 und A4, schwarz-weiß und in Farbe. Du kannst einen USB-Stick anschließen oder ihn mit dem Tails-Computer verbinden.</p>
+			</div>
 		</div>
 	</div>
 </div>
 
-<div class="row">
-	<div class="card card-hover col-lg m-3">
-		<div class="card-body">
-			<h3 class="card-title">Bestellservice</h3>
-			<p class="card-text">Wir bestellen Waren für dich – datensparsam oder anonym. <a href="bestellservice.html">Weiterlesen</a></p>
-			<a href="https://order.proxysto.re">order.proxysto.re</a>
-			oder
-			<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">onion</a>
-		</div>
-	</div>
-	<div class="card card-hover col-lg m-3">
-		<div class="card-body">
-			<h3 class="card-title">Druckservice</h3>
-			<p class="card-text">Bestelle ganz komfortabel in unserer Onlinedruckerei – datensparsam oder anonym.</p>
-			<a href="https://druck.proxysto.re">druck.proxysto.re</a>
-			oder
-			<a href="http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion">onion</a>
-		</div>
-	</div>
-	<div class="card card-hover col-lg m-3">
-		<div class="card-body">
-			<h3 class="card-title">Projekte und Übersetzungen</h3>
-			<p class="card-text">Manchmal bauen und erkunden wir Dinge, manchmal übersetzen wir Texte.</p>
-			<a class="card-link stretched-link" href="https://dys2p.com">dys2p.com</a>
-		</div>
-	</div>
-</div>
+<!--
+<a href="http://digitazyyxyihwwzudp5syxxyn3qhcd63wqcha2dxpfqiyydmrgdiaad.onion/">onion</a>
+<a href="http://proxyoxiemywllckvpix543gqcmvvltrnb7inbwtk2knkehqt72tyfyd.onion">onion</a>
+<a href="http://print5cxveagitd3cbl3pakcjupk5jwgtpwa35uowhtzlmcqbibmsnyd.onion">onion</a>
+-->

@@ -6,36 +6,35 @@
 		<link rel="icon" type="image/png" href="../assets/images/favicon-96.png" sizes="96x96">
 		<link rel="stylesheet" href="../assets/bootstrap.min.css">
 		<link rel="stylesheet" href="../assets/style.css" />
+		<link rel="stylesheet" href="../assets/fontawesome-free-6.2.1-web/css/fontawesome-selection.css" />
+		<link rel="stylesheet" href="../assets/fontawesome-free-6.2.1-web/css/solid.css" />
 		<meta name="author" content="ProxyStore">
-		<meta name="description" content="Order goods from any retailer within the European Union. Pay in cash, bank transfer, Monero or Bitcoin. Collect goods at our store or we reship them within the EU.">
+		<meta name="description" content="Order goods from our online shops or from any retailer within the European Union. Pay in cash, bank transfer, Monero or Bitcoin. Collect goods at our store or let uns ship them to you.">
 		<meta name="keywords" content="anonym, anonymous, anonymously, online, shop, shopping, monero, xmr, bitcoin, btc">
 		<title>ProxyStore</title>
 		{{.Head}}
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-expand-sm navbar-light justify-content-center small py-2" style="background-color: #eeeff0!important; font-weight: bold">
-				<a class="nav-item nav-link text-dark px-2 py-0" href="https://dys2p.com">dys2p</a> &middot;
-				<a class="nav-item nav-link text-dark px-2 py-0" href="https://proxysto.re">ProxyStore</a> &middot;
-				<a class="nav-item nav-link text-dark px-2 py-0" href="https://toolbox77.de">toolbox77</a>
-			</nav>
-			<nav class="navbar navbar-expand-sm navbar-light bg-light">
+			<nav class="navbar navbar-expand-xl navbar-light bg-light">
 				<div class="container-fluid">
 					<input type="checkbox" id="toggle-navbar">
 					<div class="navbar-toggler">
 						<label class="mb-0 navbar-toggler-icon" for="toggle-navbar"></label>
 					</div>
 					<div class="collapse navbar-collapse">
-						<a class="navbar-brand equal-width-sm"></a>
-						<div class="navbar-nav equal-width-sm d-flex justify-content-center">
-							<a class="nav-item nav-link text-dark" href="index.html">ProxyStore</a>
-							<a class="nav-item nav-link text-dark" href="news.html">News</a>
-							<a class="nav-item nav-link text-dark" href="warum.html">{{.Map "de" "Warum?" "en" "Why?"}}</a>
-							<a class="nav-item nav-link text-dark" href="bestellservice.html">{{.Map "de" "Bestellservice" "en" "Order Service"}}</a>
-							<a class="nav-item nav-link text-dark" href="ladensortiment.html">{{.Map "de" "Ladengeschäft" "en" "Local Store"}}</a>
-							<a class="nav-item nav-link text-dark" href="faq.html">FAQ</a>
+						<a class="navbar-brand equal-width-xl"></a>
+						<div class="navbar-nav equal-width-xl d-flex justify-content-center">
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://dys2p.com"><i class="fa-solid fa-flask"></i> dys2p</a>
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://proxysto.re/warum.html"><i class="fa-solid fa-biohazard"></i> {{.Map "de" "Warum?" "en" "Why?"}}</a>
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://proxysto.re"><i class="fa-solid fa-store"></i> {{.Map "de" "Ladengeschäft" "en" "Local Store"}}</a>
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://order.proxysto.re"><i class="fa-solid fa-tags"></i> {{.Map "de" "Bestellservice" "en" "Order Service"}}</a>
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://digitalgoods.proxysto.re"><i class="fa-solid fa-ticket"></i> {{.Map "de" "Digitale Güter" "en" "Digital Goods"}}</a>
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://druck.proxysto.re"><i class="fa-solid fa-print"></i> {{.Map "de" "Onlinedruckerei" "en" "Online printing"}}</a>
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://shop.proxysto.re"><i class="fa-solid fa-cart-shopping"></i> ProxyStore</a>
+							<a class="nav-item nav-link text-dark text-nowrap px-3" href="https://toolbox77.de"><i class="fa-solid fa-cart-shopping"></i> toolbox77</a>
 						</div>
-						<div class="equal-width-sm text-end">
+						<div class="equal-width-xl text-end">
 							{{range .Locales}}<a class="btn btn-sm btn-secondary{{if eq . $.Locale}} active{{end}}" href="../{{.}}/{{$.Path}}">{{Caps .}}</a> {{end}}
 						</div>
 					</div>
@@ -47,17 +46,64 @@
 		</main>
 		<footer class="footer">
 			<div class="container">
-				<a class="text-muted" href="kontakt.html"><strong>{{.Map "de" "Kontakt" "en" "Contact"}}</strong></a>
-				<a class="text-muted" href="agb.html">{{.Map "de" "AGB" "en" "Terms and Conditions"}}</a>
-				<a class="text-muted" href="datenschutz.html">{{.Map "de" "Datenschutz" "en" "Privacy policy"}}</a>
-				<a class="text-muted" href="impressum.html">{{.Map "de" "Impressum" "en" "Imprint"}}</a>
-				<a class="text-muted" href="widerrufsbelehrung.html">{{.Map "de" "Widerrufsbelehrung" "en" "Cancellation Policy"}}</a>
-				<a class="text-muted" href="kontakt.html">{{.Map "de" "Fehler oder Hinweise? Schreib uns!" "en" "Got an idea or found an error? Drop us a note!"}}</a>
-				<span>&mdash;</span>
-				<a class="text-muted" href="https://github.com/dys2p">GitHub</a>
-				<a class="text-muted" href="https://chaos.social/@dys2p">Mastodon</a>
-				<a class="text-muted" href="https://www.reddit.com/r/dys2p">Reddit</a>
-				<a class="text-muted" href="https://twitter.com/dys2pn">Twitter</a>
+				<div class="row">
+					<div class="col-md-2">
+						<h4><a href="payment.html">{{.Map "de" "Bezahlung" "en" "Payment"}}</a></h4>
+						<ul>
+							<li>{{.Map "de" "Barzahlung im Ladengeschäft" "en" "Cash payment"}}</li>
+							<li>{{.Map "de" "Bargeld per Post" "en" "Cash letter"}}</li>
+							<li>{{.Map "de" "Monero und Bitcoin" "en" "Monero and Bitcoin"}}</li>
+							<li>{{.Map "de" "SEPA-Überweisung" "en" "SEPA bank transfer"}}</li>
+							<li>{{.Map "de" "PayPal (teilweise)" "en" "PayPal (partly)"}}</li>
+						</ul>
+					</div>
+					<div class="col-md-3">
+						<h4><a href="delivery.html">{{.Map "de" "Versand" "en" "Delivery"}}</a></h4>
+						<ul>
+							<li>{{.Map "de" "Abholung im Ladengeschäft" "en" "Pickup in our local store"}}</li>
+							<li>{{.Map "de" "Abholung aus Schließfach im Ladengeschäft" "en" "Pickup from locker in our local store"}}</li>
+							 <!--Übermittlung der Versandadresse auf verschiedenen Wegen möglich-->
+							<li>{{.Map "de" "DHL-Paket handschriftlich frankiert" "en" "DHL parcel, franked handwritten"}}</li>
+							<li>{{.Map "de" "DHL-Paket digital frankiert" "en" "DHL parcel, franked digitally"}}</li>
+							<li>{{.Map "de" "online (digitale Güter)" "en" "online (digital goods)"}}</li>
+						</ul>
+					</div>
+					<div class="col-md-2">
+						<h4>Rechtliches</h4>
+						<ul>
+							<li><a href="agb.html">{{.Map "de" "AGB" "en" "Terms and Conditions"}}</a></li>
+							<li><a href="datenschutz.html">{{.Map "de" "Datenschutz" "en" "Privacy policy"}}</a></li>
+							<li><a href="impressum.html">{{.Map "de" "Impressum" "en" "Imprint"}}</a></li>
+							<li><a href="widerrufsbelehrung.html">{{.Map "de" "Widerrufsbelehrung" "en" "Cancellation Policy"}}</a></li>
+						</ul>
+					</div>
+					<div class="col-md-2">
+						<h4>{{.Map "de" "Kontakt & News" "en" "Contact & News"}}</h4>
+						<ul>
+							<li><a rel="noreferrer" href="kontakt.html"><strong>{{.Map "de" "Kontakt" "en" "Contact us"}}</strong></a></li>
+							<li><a rel="noreferrer" href="https://dys2p.com/news.html">Blog</a></li>
+							<li><a rel="noreferrer" href="https://chaos.social/@dys2p">Mastodon</a></li>
+							<li><a rel="noreferrer" href="https://www.reddit.com/r/dys2p">Reddit</a></li>
+							<li><a rel="noreferrer" href="https://twitter.com/dys2pn">Twitter</a></li>
+						</ul>
+					</div>
+					<div class="col-md-3">
+						<h4><a href="https://proxysto.re">{{.Map "de" "Ladengeschäft" "en" "Local Store"}}</a></h4>
+						<p>
+							Bernhard-Göring-Straße 162<br>
+							04277 Leipzig<br>
+							{{.Map "de" "Deutschland" "en" "Germany"}}
+						</p>
+						<p>
+							Mo+Do 10-18 Uhr<br>
+							Di+Mi+Fr+Sa 10-14 Uhr<br>
+							{{.Map "de" "und nach Vereinbarung" "en" "and by arrangement"}}
+						</p>
+					</div>
+				</div>
+				<p class="px-0">
+					<a href="kontakt.html">{{.Map "de" "Fehler oder Hinweise? Schreib uns!" "en" "Got an idea or found an error? Drop us a note!"}}</a>
+				</p>
 			</div>
 		</footer>
 	</body>
