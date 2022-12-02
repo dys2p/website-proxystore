@@ -1,6 +1,7 @@
 # Spendenverlauf
 
 * Spenden im Zeitraum Juli bis Dezember 2022
+  * Spendensumme November 2022: 0,00 €
   * Spendensumme Oktober 2022: 14,81 €
   * Spendensumme September 2022: 0,00 €
   * Spendensumme August 2022: 1,40 €
